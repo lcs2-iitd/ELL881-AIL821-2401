@@ -1,19 +1,19 @@
 # Site settings
-course_name: History of Magic
+course_name: Large Language Models (LLMs): Introduction and Recent Advances
 course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_semester: "Monsoon 2024"
 
 baseurl: "/ell881-monsoon24" # the subpath of your site, e.g. /blog/
 url: "http://lcs2-iitd.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
-twitter_username: username 
+schoolname: "IIT Delhi"
+schoolurl: "https://www.lcs2.in"
+twitter_username: lcs2lab 
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    Laboratory for Computational Social Systems (LCS2)
+    Indian Institute of Technology Delhi
+    Hauz Khas, New Delhi - 110016, India
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
