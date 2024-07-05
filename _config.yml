@@ -1,4 +1,5 @@
 # Site settings
+course_code: ELL881 
 course_name: "Large Language Models (LLMs): Introduction and Recent Advances"
 course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
 course_semester: "Monsoon 2024"
