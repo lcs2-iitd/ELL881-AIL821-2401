@@ -2,8 +2,22 @@ instructors:
   - name: Tanmoy Chakraborty
     profile_pic: /_images/pp/tanmoy.png
     webpage: https://tanmoychak.com
-  - name: Minerva McGonagall
-    profile_pic: /_images/pp/mcgonagall.jpg
+    
+  - name: Yatin Nandwani
+    profile_pic: /_images/pp/yatin.jpeg
+    webpage: https://www.linkedin.com/in/yatinnandwani/
+
+  - name: Dinesh Raghu
+    profile_pic: /_images/pp/dinesh.jpeg
+    webpage: https://research.ibm.com/people/dinesh-raghu
+
+  - name: Gaurav Pandey
+    profile_pic: /_images/pp/gaurav.jpeg
+    webpage: https://www.linkedin.com/in/gaurav-pandey-11321120/
+
+  - name: Sourish Dasgupta
+    profile_pic: /_images/pp/sourish.jpeg
+    webpage: https://www.daiict.ac.in/faculty-details/2321
 
 teaching_assistants:
   - name: Anwoy Chatterjee
