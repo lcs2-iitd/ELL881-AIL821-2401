@@ -17,11 +17,14 @@ layout: default
     {% if site.data.previous_offering and site.data.previous_offering.offerings and site.data.previous_offering.offerings.size > 0 %}
     <h2>Previous Offerings</h2>
     <ul class="previous-offerings">
-    {% for offer in site.data.previous_offering.offerings %}
-        <p>This is a new course designed to teach the students about recent advances in the field LLMs, building gradually from the basics. While it is impossible to teach about all recent research, more so in case of a field moving as rapidly as LLMs, we will try our best to cover the important and well-established topics.
-
+        <p>
+            This is a new course designed to teach the students about recent advances in the field LLMs, building gradually from the basics. While it is impossible to teach about all recent research, more so in case of a field advancing as rapidly as LLMs, we will try our best to cover the important and well-established topics.
+        </p>
+        <p>
             The NLP course offered by Prof. Tanmoy is ideally a precursor to this course. We will spend more time on the advanced concepts in this course and will go into a considerable depth, unlike NLP course where more time is spent on the basics. You can consider looking into the previous offerings of the basic NLP course:
         </p>
+        
+    {% for offer in site.data.previous_offering.offerings %}
     <li><a href="{{ offer.url }}">{{offer.title}}</a></li>
     {% endfor %}
     </ul>
