@@ -1,4 +1,4 @@
 ---
-date: 2018-10-03T10:00:00+3:30
+date: 2024-07-21T11:00:00+4:30
 ---
-Sample announcement, Please check out [here](/).
+The first class will be on July 22, 2024 (Monday) at Bharti-301, starting from 11 AM.
