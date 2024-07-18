@@ -6,17 +6,18 @@ tldr: "An introduction to the course content, logistics, policies and"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
     - url: https://google.com
-      name: slides
-    <! ---               
-    - url: /static_files/presentations/lec.zip
-      name: notes
-    - url: /static_files/presentations/code.zip
-      name: codes
-    -->    
+      name: slides  
 ---
 **Suggested Readings:**
+
 <! ---  
 - [Readings 1](http://example.com)
 - [Readings 2](http://example.com)
   
 -->  
+ <! ---               
+    - url: /static_files/presentations/lec.zip
+      name: notes
+    - url: /static_files/presentations/code.zip
+      name: codes
+    -->  
