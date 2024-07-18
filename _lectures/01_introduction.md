@@ -3,7 +3,7 @@ type: lecture
 
 date: 2024-07-22T11:00:00+4:30
 
-title: Lecture 1: Course Introduction
+title: Course Introduction (Lecture #1)
 
 tldr: "An introduction to the course content, logistics, policies and background."
 
