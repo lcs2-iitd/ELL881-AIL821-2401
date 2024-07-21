@@ -11,7 +11,4 @@ hide_from_announcments: true
 
 thumbnail: /static_files/presentations/lec1.jpg
 
-links: 
-    - url: /static_files/presentations/Lec-1-Introduction.pdf
-      name: slides  
 ---
