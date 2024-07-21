@@ -22,7 +22,7 @@ ACL, EMNLP, NAACL, COLING, AAAI, IJCNLP, ICML, NeurIPS, ICLR, WWW, KDD, SIGIR, e
 
 ## Related Courses (Non-exhaustive)
 
-* [Advanced NLP](http://www.phontron.com/class/anlp2022/), Graham Neubig
+* [CMU CS 11-711: Advanced NLP](http://www.phontron.com/class/anlp2022/), Graham Neubig
 * [Advanced NLP](https://people.cs.umass.edu/~miyyer/cs685/), Mohit Iyyer 
 * [NLP with Deep Learning](http://web.stanford.edu/class/cs224n/), Chris Manning
 * [Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/), Danqi Chen
