@@ -30,6 +30,6 @@ permalink: /materials/
 * [Stanford CS324: Large Language Models](https://stanford-cs324.github.io/winter2022/)
 * [CMSC 473/673: Natural Language Processing at UMBC](https://laramartin.net/NLP-class/), Lara Martin 
 * [CMU CS 11-830: Computational Ethics for NLP](http://demo.clab.cs.cmu.edu/ethical_nlp/) 
-* [Self-supervised models, CS 601.471/671](): Self-supervised Models (jhu.edu)
+* [JHU CS 601.471/671 NLP: Self-supervised Models](https://self-supervised.cs.jhu.edu/sp2024/), Daniel Khashabi
 * [WING.NUS Large Language Models](https://wing-nus.github.io/cs6101/)
 
