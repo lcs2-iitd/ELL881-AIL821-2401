@@ -12,7 +12,7 @@ permalink: /materials/
 * [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), Jacob Eisenstein
 * [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf), Yoav Goldberg
 
-## Research papers (as recommended in class)
+## Research Papers (As Recommended in Class)
 
 ### Journals
 * Computational Linguistics, Natural Language Engineering, TACL, JMLR, TMLR, etc.
