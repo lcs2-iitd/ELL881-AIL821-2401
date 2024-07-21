@@ -9,6 +9,6 @@ tldr: "An introduction to the terminologies and problems in NLP."
 
 hide_from_announcments: true
 
-thumbnail:
+thumbnail: /static_files/presentations/lec2.jpg
 
 ---
