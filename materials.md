@@ -6,15 +6,31 @@ permalink: /materials/
 
 {% include image.html url="/_images/cover2.jpg" width=175 align="right" %}
 
-## Book
+## Books
 
-Alan Turing and Noam Chomsky: Very Famous Book
+* [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/), Dan Jurafsky and James H. Martin
+* Foundations of Statistical Natural Language Processing, Chris Manning and Hinrich Schütze
+* [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), Jacob Eisenstein
+* [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf), Yoav Goldberg
 
-## Additional Course Materials
+## Research papers (as recommended in class)
 
-* If you are not familiar with Python programming, use any online tutorial to get a handle of it.
-* [Material #1](http://www.example.com/): how a computer chess player thinks!
-* [Material #2](http://www.example.com/): how a computer chess player thinks!
-* [Material #3](http://www.example.com/): how a computer chess player thinks!
-* [Material #4](http://www.example.com/): how a computer chess player thinks!
-* [Material #5](http://www.example.com/): how a computer chess player thinks!
+### Journals
+Computational Linguistics, Natural Language Engineering, TACL, JMLR, TMLR, etc.
+
+### Conferences
+ACL, EMNLP, NAACL, COLING, AAAI, IJCNLP, ICML, NeurIPS, ICLR, WWW, KDD, SIGIR, etc. 
+
+## Related Courses (Non-exhaustive)
+
+* [Advanced NLP](http://www.phontron.com/class/anlp2022/), Graham Neubig
+* [Advanced NLP](https://people.cs.umass.edu/~miyyer/cs685/), Mohit Iyyer 
+* [NLP with Deep Learning](http://web.stanford.edu/class/cs224n/), Chris Manning
+* [Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/), Danqi Chen
+* [Natural Language Processing](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html), Greg Durrett 
+* [Large Language Models](https://stanford-cs324.github.io/winter2022/): 
+* [Natural Language Processing at UMBC](https://laramartin.net/NLP-class/), 
+* [Computational Ethics in NLP](https://demo.clab.cs.cmu.edu/ethical_nlp/), 
+* [Self-supervised models, CS 601.471/671](): Self-supervised Models (jhu.edu)
+* [WING.NUS Large Language Models](https://wing-nus.github.io/cs6101/)
+
