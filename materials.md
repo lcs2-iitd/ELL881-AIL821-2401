@@ -18,7 +18,7 @@ permalink: /materials/
 * Computational Linguistics, Natural Language Engineering, TACL, JMLR, TMLR, etc.
 
 ### Conferences
-* ACL, EMNLP, NAACL, COLING, AAAI, IJCNLP, ICML, NeurIPS, ICLR, WWW, KDD, SIGIR, etc. 
+* ACL, EMNLP, NAACL, EACL, ICML, NeurIPS, ICLR, AAAI, WWW, KDD, SIGIR, etc. 
 
 ## Related Courses (Non-exhaustive)
 
