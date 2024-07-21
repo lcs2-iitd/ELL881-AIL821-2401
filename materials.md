@@ -28,7 +28,7 @@ permalink: /materials/
 * [Princeton COS 597G: Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/), Danqi Chen
 * [UT Austin CS388/AI388/DSC395T: Natural Language Processing](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html), Greg Durrett 
 * [Stanford CS324: Large Language Models](https://stanford-cs324.github.io/winter2022/)
-* [Natural Language Processing at UMBC](https://laramartin.net/NLP-class/), 
+* [CMSC 473/673: Natural Language Processing at UMBC](https://laramartin.net/NLP-class/), Lara Martin 
 * [Computational Ethics in NLP](https://demo.clab.cs.cmu.edu/ethical_nlp/), 
 * [Self-supervised models, CS 601.471/671](): Self-supervised Models (jhu.edu)
 * [WING.NUS Large Language Models](https://wing-nus.github.io/cs6101/)
