@@ -26,7 +26,7 @@ permalink: /materials/
 * [UMass Amherst CS 685: Advanced NLP](https://people.cs.umass.edu/~miyyer/cs685/), Mohit Iyyer 
 * [Stanford CS224N: NLP with Deep Learning](http://web.stanford.edu/class/cs224n/), Chris Manning
 * [Princeton COS 597G: Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/), Danqi Chen
-* [Natural Language Processing](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html), Greg Durrett 
+* [UT Austin CS388/AI388/DSC395T: Natural Language Processing](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html), Greg Durrett 
 * [Large Language Models](https://stanford-cs324.github.io/winter2022/): 
 * [Natural Language Processing at UMBC](https://laramartin.net/NLP-class/), 
 * [Computational Ethics in NLP](https://demo.clab.cs.cmu.edu/ethical_nlp/), 
