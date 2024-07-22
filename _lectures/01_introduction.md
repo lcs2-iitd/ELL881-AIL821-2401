@@ -14,9 +14,10 @@ links:
       name: slides
 
 thumbnail: /static_files/presentations/lec1.jpg
+---
 
 <!-- Other additional contents using markdown -->
 **Suggested Readings:**
 - [A Survey of Deep Learning: From Activations to Transformers](https://arxiv.org/abs/2302.00722)
 
----
+
