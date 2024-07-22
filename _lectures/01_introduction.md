@@ -9,6 +9,10 @@ tldr: "An introduction to the course content, logistics, policies and background
 
 hide_from_announcments: true
 
+links: 
+    - url: /static_files/presentations/Lec-1-Intro_LLM.pdf
+      name: slides
+
 thumbnail: /static_files/presentations/lec1.jpg
 
 ---
