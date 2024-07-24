@@ -7,7 +7,7 @@ title: "Course Introduction"
 
 tldr: "An introduction to the course content, logistics, policies and background."
 
-hide_from_announcments: false
+hide_from_announcments: true
 
 links: 
     - url: /static_files/presentations/Lec-1-Intro_LLM.pdf
