@@ -1,4 +1,4 @@
 ---
-date: 2024-07-21T11:00:00+4:30
+date: 2024-07-24T10:00:00+4:30
 ---
-The first class will be on July 22, 2024 (Monday) at Bharti-301, starting from 11 AM.
+Everyone is requested to sign up for [this class](https://piazza.com/iitd.ac.in/fall2024/ell881ail821) on Piazza. The access code is **llm2401**.
