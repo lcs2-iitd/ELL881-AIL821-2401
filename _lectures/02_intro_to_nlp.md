@@ -1,7 +1,7 @@
 ---
 type: lecture
 
-date: 2024-07-22T11:00:00+4:30
+date: 2024-07-24T11:00:00+4:30
 
 title: "Introduction to Natural Language Processing"
 
@@ -18,5 +18,5 @@ thumbnail: /static_files/presentations/lec2.jpg
 
 <!-- Other additional contents using markdown -->
 **Suggested Readings:**
-- [The Evolution of NLP: Past, Present, and Future]([https://arxiv.org/abs/2302.00722](https://www.peppercontent.io/blog/tracing-the-evolution-of-nlp/)
+- [The Evolution of NLP: Past, Present, and Future](https://www.peppercontent.io/blog/tracing-the-evolution-of-nlp/)
 
