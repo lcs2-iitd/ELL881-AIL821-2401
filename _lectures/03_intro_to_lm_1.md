@@ -19,4 +19,6 @@ thumbnail: /static_files/presentations/lec3.jpg
 ---
 
 <!-- Other additional contents using markdown -->
+**Suggested Readings:**
+- [Chapter-3, Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
 
