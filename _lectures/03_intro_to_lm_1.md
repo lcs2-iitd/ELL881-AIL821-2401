@@ -3,6 +3,8 @@ type: lecture
 
 date: 2024-07-25T12:00:00+4:30
 
+format_date: July 25, 2024 (Thursday)
+
 title: "Introduction to Language Models"
 
 tldr: "An introduction to statistical language modelling."
