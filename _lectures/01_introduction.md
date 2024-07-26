@@ -3,6 +3,8 @@ type: lecture
 
 date: 2024-07-22T11:00:00+4:30
 
+format_date: July 22, 2024 (Monday)
+
 title: "Course Introduction"
 
 tldr: "An introduction to the course content, logistics, policies and background."
