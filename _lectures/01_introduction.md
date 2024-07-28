@@ -14,9 +14,9 @@ hide_from_announcments: true
 links: 
     - url: /static_files/presentations/Lec-1-Intro_LLM.pdf
       name: slides
-      thumbnail: /static_files/presentations/lec1.jpg
     - url: https://youtu.be/zMn37YxPD6I
-      name: video 
+      name: video
+thumbnail: /static_files/presentations/lec1.jpg
 ---
 
 <!-- Other additional contents using markdown -->
