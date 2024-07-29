@@ -14,6 +14,8 @@ hide_from_announcments: false
 links: 
     - url: /static_files/presentations/Lec-3-Intro-to-LM.pdf
       name: slides
+    - url: https://youtu.be/GIX79DnzwOk
+      name: video
 
 thumbnail: /static_files/presentations/lec3.jpg
 ---
