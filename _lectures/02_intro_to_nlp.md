@@ -14,6 +14,8 @@ hide_from_announcments: false
 links: 
     - url: /static_files/presentations/Lec-2-Intro-to-NLP.pdf
       name: slides
+    - url: https://youtu.be/oVmwxtCoUJw
+      name: video
 
 thumbnail: /static_files/presentations/lec2.jpg
 ---
