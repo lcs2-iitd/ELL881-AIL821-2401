@@ -9,7 +9,7 @@ title: "Introduction to Language Models"
 
 tldr: "An introduction to statistical language modelling."
 
-hide_from_announcments: false
+hide_from_announcments: true
 
 links: 
     - url: /static_files/presentations/Lec-3-Intro-to-LM.pdf
