@@ -9,7 +9,7 @@ title: "Introduction to Natural Language Processing"
 
 tldr: "An introduction to the terminologies and problems in NLP."
 
-hide_from_announcments: false
+hide_from_announcments: true
 
 links: 
     - url: /static_files/presentations/Lec-2-Intro-to-NLP.pdf
