@@ -8,7 +8,7 @@ title: "Neural Language Models"
 
 tldr: "Language modeling using different variants of neural networks (CNN, RNN, LSTM, GRU)"
 
-hide_from_announcments: false
+hide_from_announcments: true
 
 ---
 
