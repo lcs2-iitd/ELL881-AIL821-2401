@@ -7,7 +7,7 @@ format_date: TBA
 
 title: "Neural Language Models"
 
-tldr: "Language modeling using different variants of neural networks (CNN, RNN, LSTM, GRU)"
+tldr: "Language modeling using different variants of neural networks (CNN, RNN, LSTM, GRU). Introduction to attention mechanism in RNNs."
 
 hide_from_announcments: true
 
