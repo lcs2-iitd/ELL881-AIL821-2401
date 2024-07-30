@@ -10,6 +10,7 @@ tldr: "Language modeling using different variants of neural networks (CNN, RNN, 
 
 hide_from_announcments: true
 
+thumbnail: /static_files/presentations/lec6.jpg
 ---
 
 <!-- Other additional contents using markdown -->
