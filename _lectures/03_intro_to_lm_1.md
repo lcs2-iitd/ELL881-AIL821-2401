@@ -7,7 +7,7 @@ format_date: July 25, 2024 (Thursday)
 
 title: "Introduction to Language Models"
 
-tldr: "An introduction to statistical language modelling."
+tldr: "An introduction to statistical language modeling."
 
 hide_from_announcments: true
 
