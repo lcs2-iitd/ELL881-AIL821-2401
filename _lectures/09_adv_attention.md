@@ -11,7 +11,7 @@ tldr: "Discussion on the advanced and efficient attention mechanisms &ndash; mul
 
 hide_from_announcments: true
 
-thumbnail: /static_files/presentations/lec7.jpg
+thumbnail: /static_files/presentations/lec9.jpg
 ---
 
 <!-- Other additional contents using markdown -->
