@@ -7,7 +7,7 @@ format_date: TBA
 
 title: "Word Representation"
 
-tldr: "Various methods for representing words as vectors -- count-based methods, learning embeddings (Word2vec, GloVe)"
+tldr: "Various methods for representing words as vectors &ndash; count-based methods, methods for learning embeddings (Word2vec, GloVe)"
 
 hide_from_announcments: true
 
