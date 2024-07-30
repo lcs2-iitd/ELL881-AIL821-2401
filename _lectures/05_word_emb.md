@@ -8,7 +8,7 @@ title: "Word Representation"
 
 tldr: "Various methods for representing words as vectors - count-based methods, learning embeddings (Word2vec, GloVe)"
 
-hide_from_announcments: false
+hide_from_announcments: true
 
 
 ---
