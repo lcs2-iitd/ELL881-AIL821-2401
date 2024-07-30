@@ -10,7 +10,7 @@ tldr: "Various methods for representing words as vectors -- count-based methods,
 
 hide_from_announcments: true
 
-thumbnail: thumbnail: /static_files/presentations/lec5.jpg
+thumbnail: /static_files/presentations/lec5.jpg
 ---
 
 <!-- Other additional contents using markdown -->
