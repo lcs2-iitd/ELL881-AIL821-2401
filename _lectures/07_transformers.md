@@ -7,7 +7,7 @@ format_date: TBA
 
 title: "Introduction to Transformers"
 
-tldr: "Getting rid of recurrent connections &ndash; self-attention, cross-attention, postional embeddings"
+tldr: "Getting rid of recurrent connections &ndash; self-attention, cross-attention, postional embeddings."
 
 hide_from_announcments: true
 
