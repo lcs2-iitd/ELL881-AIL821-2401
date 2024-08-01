@@ -5,9 +5,9 @@ date: 2024-07-31T11:00:00+5:30
 
 format_date: July 31, 2024 (Wednesday)
 
-title: "Word Representation"
+title: "Word Representation-I"
 
-tldr: "Various methods for representing words as vectors &ndash; count-based methods, methods for learning embeddings (Word2vec)."
+tldr: "Various methods for representing words as vectors &ndash; count-based methods, prediction-based methods (Word2vec)."
 
 hide_from_announcments: false
 
