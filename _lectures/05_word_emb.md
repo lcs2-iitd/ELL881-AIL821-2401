@@ -9,7 +9,7 @@ title: "Word Representation-I"
 
 tldr: "Various methods for representing words as vectors &ndash; count-based methods, prediction-based methods (Word2vec, fastText)."
 
-hide_from_announcments: false
+hide_from_announcments: true
 
 links: 
     - url: /static_files/presentations/Lec-5-Word_Embeddings-1.pdf
