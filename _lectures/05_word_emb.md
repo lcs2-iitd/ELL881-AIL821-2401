@@ -9,7 +9,7 @@ title: "Word Representation"
 
 tldr: "Various methods for representing words as vectors &ndash; count-based methods, methods for learning embeddings (Word2vec)."
 
-hide_from_announcments: flase
+hide_from_announcments: false
 
 links: 
     - url: /static_files/presentations/Lec-5-Word_Embeddings.pdf
