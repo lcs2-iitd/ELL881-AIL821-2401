@@ -12,7 +12,7 @@ tldr: "Various methods for representing words as vectors &ndash; count-based met
 hide_from_announcments: flase
 
 links: 
-    - url: /static_files/presentations/Lec-5-Word_Embeddings 2.pdf
+    - url: /static_files/presentations/Lec-5-Word_Embeddings.pdf
       name: slides
     - url: 
       name: video
