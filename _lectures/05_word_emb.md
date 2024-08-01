@@ -9,7 +9,14 @@ title: "Word Representation"
 
 tldr: "Various methods for representing words as vectors &ndash; count-based methods, methods for learning embeddings (Word2vec, GloVe)."
 
-hide_from_announcments: true
+hide_from_announcments: flase
+
+links: 
+    - url: /static_files/presentations/Lec-5-Word_Embeddings 2.pdf
+      name: slides
+    - url: 
+      name: video
+
 
 thumbnail: /static_files/presentations/lec5.jpg
 ---
