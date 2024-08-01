@@ -12,7 +12,7 @@ tldr: "Combining count-based and prediction-based methods for learning word repr
 hide_from_announcments: false
 
 links: 
-    - url: /static_files/presentations/Lec-5-Word_Embeddings-2.pdf
+    - url: /static_files/presentations/Lec-6-Word_Embeddings-2.pdf
       name: slides
 
 
