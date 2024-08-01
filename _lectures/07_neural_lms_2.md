@@ -11,6 +11,7 @@ tldr: "Problems with RNNs &ndash; vanishing and exploding gradients. Architectur
 
 hide_from_announcments: true
 
+thumbnail: /static_files/presentations/lec7.jpg
 ---
 
 <!-- Other additional contents using markdown -->
