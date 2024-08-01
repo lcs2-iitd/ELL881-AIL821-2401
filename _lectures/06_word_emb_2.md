@@ -23,7 +23,7 @@ thumbnail: /static_files/presentations/lec6_1.jpg
 **Suggested Readings:**
 - [GloVe: Global Vectors for Word Representation](https://aclanthology.org/D14-1162.pdf)
   
-**Optional Readings on Bias Captured by Word Embeddings**
+**Optional Readings on Bias Captured by Word Embeddings:**
 - [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://papers.nips.cc/paper_files/paper/2016/file/a486cd07e4ac3d270571622f4f316ec5-Paper.pdf)
 - [Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change](https://aclanthology.org/P16-1141.pdf)
 - [Word Embeddings Quantify 100 Years of Gender and Ethnic Stereotypes](https://arxiv.org/pdf/1711.08412)
