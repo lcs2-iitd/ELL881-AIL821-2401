@@ -9,7 +9,7 @@ title: "Advanced Smoothing and Evaluation"
 
 tldr: "Discussion on the advanced smoothing techniques, and the intrinsic and extrinsic methods for evaluation of language models."
 
-hide_from_announcments: false
+hide_from_announcments: true
 
 links: 
     - url: /static_files/presentations/Lec-4-Smoothing.pdf
