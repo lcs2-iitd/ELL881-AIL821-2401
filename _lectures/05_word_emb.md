@@ -1,7 +1,7 @@
 ---
 type: lecture
 
-date: 2024-07-31T11:00:00+4:30
+date: 2024-07-31T11:00:00+5:30
 
 format_date: July 31, 2024 (Wednesday)
 
