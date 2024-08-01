@@ -7,7 +7,7 @@ format_date: July 31, 2024 (Wednesday)
 
 title: "Word Representation-I"
 
-tldr: "Various methods for representing words as vectors &ndash; count-based methods, prediction-based methods (Word2vec)."
+tldr: "Various methods for representing words as vectors &ndash; count-based methods, prediction-based methods (Word2vec, fastText)."
 
 hide_from_announcments: false
 
@@ -24,4 +24,6 @@ thumbnail: /static_files/presentations/lec5.jpg
 <!-- Other additional contents using markdown -->
 **Suggested Readings:**
 - [Chapter-6, Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
+- [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781)
+- [Enriching Word Vectors with Subword Information](https://arxiv.org/pdf/1607.04606)
 
