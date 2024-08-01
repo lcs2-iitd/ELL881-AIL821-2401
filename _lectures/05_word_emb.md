@@ -12,7 +12,7 @@ tldr: "Various methods for representing words as vectors &ndash; count-based met
 hide_from_announcments: false
 
 links: 
-    - url: /static_files/presentations/Lec-5-Word_Embeddings.pdf
+    - url: /static_files/presentations/Lec-5-Word_Embeddings-1.pdf
       name: slides
     - url: https://youtu.be/VS5N6vuqYfA
       name: video
