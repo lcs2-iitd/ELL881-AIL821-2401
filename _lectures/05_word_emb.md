@@ -22,3 +22,6 @@ thumbnail: /static_files/presentations/lec5.jpg
 ---
 
 <!-- Other additional contents using markdown -->
+**Suggested Readings:**
+- [Chapter-6, Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
+
