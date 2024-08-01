@@ -14,7 +14,7 @@ hide_from_announcments: flase
 links: 
     - url: /static_files/presentations/Lec-5-Word_Embeddings.pdf
       name: slides
-    - url: 
+    - url: https://youtu.be/VS5N6vuqYfA
       name: video
 
 
