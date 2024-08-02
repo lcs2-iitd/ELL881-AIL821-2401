@@ -9,8 +9,12 @@ title: "Neural Language Models-II"
 
 tldr: "Problems with RNNs &ndash; vanishing and exploding gradients. Architectural modifications for solving vanishing gradient problem &ndash; LSTMs and GRUs."
 
-hide_from_announcments: true
+hide_from_announcments: false
 
+links: 
+    - url: /static_files/presentations/Lec-7-Neural_LM-2.pdf
+      name: slides
+      
 thumbnail: /static_files/presentations/lec7.jpg
 ---
 
