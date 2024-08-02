@@ -9,7 +9,7 @@ title: "Word Representation-II"
 
 tldr: "Combining count-based and prediction-based methods for learning word representations &ndash; GloVe."
 
-hide_from_announcments: false
+hide_from_announcments: true
 
 links: 
     - url: /static_files/presentations/Lec-52-Word_Embeddings.pdf
