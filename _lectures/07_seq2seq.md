@@ -5,17 +5,17 @@ date: 2024-08-02T08:00:00+5:30
 
 format_date: August 2, 2024 (Friday)
 
-title: "Sequence-to-Sequence Modeling and Attention"
+title: "5.3. Neural Language Models"
 
 tldr: "Neural network architectures for modeling sequence-to-sequence problems. Introduction to attention mechanism in RNNs."
 
 hide_from_announcments: false
 
 links: 
-    - url: /static_files/presentations/Lec-7-Seq2Seq.pdf
+    - url: /static_files/presentations/53.pdf
       name: slides
       
-thumbnail: /static_files/presentations/lec_7.jpg
+thumbnail: /static_files/presentations/53.jpg
 ---
 
 <!-- Other additional contents using markdown -->
