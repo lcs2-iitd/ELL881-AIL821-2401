@@ -12,7 +12,7 @@ tldr: "Problems with RNNs &ndash; vanishing and exploding gradients. Architectur
 hide_from_announcments: false
 
 links: 
-    - url: /static_files/presentations/Lec-7-Neural_LM-2.pdf
+    - url: /static_files/presentations/Lec-62-Neural_LM.pdf
       name: slides
       
 thumbnail: /static_files/presentations/lec7.jpg
