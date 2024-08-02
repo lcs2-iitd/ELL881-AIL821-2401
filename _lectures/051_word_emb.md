@@ -5,20 +5,20 @@ date: 2024-07-31T11:00:00+5:30
 
 format_date: July 31, 2024 (Wednesday)
 
-title: "Word Representation-I"
+title: "4.1. Word Representation"
 
 tldr: "Various methods for representing words as vectors &ndash; count-based methods, prediction-based methods (Word2vec, fastText)."
 
 hide_from_announcments: true
 
 links: 
-    - url: /static_files/presentations/Lec-5-Word_Embeddings-1.pdf
+    - url: /static_files/presentations/41.pdf
       name: slides
     - url: https://youtu.be/VS5N6vuqYfA
       name: video
 
 
-thumbnail: /static_files/presentations/lec5.jpg
+thumbnail: /static_files/presentations/41.jpg
 ---
 
 <!-- Other additional contents using markdown -->
