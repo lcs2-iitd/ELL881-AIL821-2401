@@ -14,6 +14,8 @@ hide_from_announcments: false
 links: 
     - url: /static_files/presentations/Lec-6-Word_Embeddings-2.pdf
       name: slides
+    - url: 
+      name: scribe
     - url: https://www.youtube.com/watch?v=qI0O8ksKImw
       name: video
 
