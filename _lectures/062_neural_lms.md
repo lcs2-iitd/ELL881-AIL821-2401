@@ -15,7 +15,7 @@ links:
     - url: /static_files/presentations/Lec-62-Neural_LM.pdf
       name: slides
       
-thumbnail: /static_files/presentations/lec62.jpg
+thumbnail: /static_files/presentations/lec_62.jpg
 ---
 
 <!-- Other additional contents using markdown -->
