@@ -12,7 +12,7 @@ tldr: "Language modeling using different variants of neural networks (CNN, RNN).
 hide_from_announcments: false
 
 links: 
-    - url: /static_files/presentations/Lec-6-Neural_LM-1.pdf
+    - url: /static_files/presentations/Lec-61-Neural_LM.pdf
       name: slides
 
 
