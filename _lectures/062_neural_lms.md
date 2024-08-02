@@ -7,7 +7,7 @@ format_date: August 2, 2024 (Friday)
 
 title: "Neural Language Models-II"
 
-tldr: "Problems with RNNs &ndash; vanishing and exploding gradients. Architectural modifications for solving vanishing gradient problem &ndash; LSTMs and GRUs."
+tldr: "Problems with RNNs &ndash; vanishing gradients. Architectural modifications for solving vanishing gradient problem &ndash; LSTMs and GRUs."
 
 hide_from_announcments: false
 
