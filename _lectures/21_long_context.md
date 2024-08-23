@@ -5,7 +5,7 @@ date: 2024-12-07T11:00:00+4:30
 
 format_date: TBA
 
-title: "Long-Context LLMs"
+title: "Long-context LLMs"
 
 tldr: "Discussion on the issues LLMs face while processing long input contexts and the techniques to enable LLMs handle long contexts effectively."
 
