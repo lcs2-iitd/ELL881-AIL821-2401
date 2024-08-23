@@ -5,7 +5,7 @@ date: 2024-12-11T11:00:00+4:30
 
 format_date: TBA
 
-title: "Intepreting the inner workings of LLMs"
+title: "Interpreting the inner workings of LLMs"
 
 tldr: "Understanding the inner workings of LLMs through various interpretability paradigms."
 
