@@ -11,7 +11,7 @@ Students should have a background in Machine Learning and be proficient in Pytho
 
 #### Mandatory
 • Data Structures and Algorithms <br>
-• Python programming <br>
+• Python Programming <br>
 • Machine Learning <br>
 
 #### Desirable
