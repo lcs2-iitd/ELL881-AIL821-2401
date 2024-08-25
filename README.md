@@ -42,7 +42,7 @@ Students should have a background in Machine Learning and be proficient in Pytho
 • Model Editing <br>
 • Bias, Toxicity and Hallucination <br>
 • Self-evolving LLMs <br>
-• Interpreting the inner workings of LLMs <br>
+• Interpreting the Inner Workings of LLMs <br>
 • Beyond Transformers: State Space Models <br>
 • Conclusion <br>
 
