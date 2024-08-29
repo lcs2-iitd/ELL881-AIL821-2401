@@ -5,7 +5,7 @@ permalink: /project/
 ---
 Find all the project related updates here. [Subscribe](https://forms.gle/A3ZpHd3sB4ErSMA79) to our newsletter for the latest updates on LLMs!
 
-
+---
 # Problem Statements
 We are floating six problem statements as part of the course project. Please refer to [this doc](/_ELL881_AIL821 - Course Projects.pdf) for details. The other instructions are listed in the attached project doc. Please adhere to them.
 
