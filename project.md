@@ -7,7 +7,7 @@ Find all the project related updates here. [Subscribe](https://forms.gle/A3ZpHd3
 
 ---
 # Problem Statements
-We are floating six problem statements as part of the course project. Please refer to [this doc](/_ELL881_AIL821 - Course Projects.pdf) for details. The other instructions are listed in the attached project doc. Please adhere to them.
+We are floating six problem statements as part of the course project. Please refer to [this document](/_assignments/CourseProjects.pdf) for details. The other instructions are listed in the attached project doc. Please adhere to them.
 
 ---
 # Group Formation
