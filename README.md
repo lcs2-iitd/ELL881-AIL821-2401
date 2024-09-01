@@ -48,7 +48,7 @@ Students should have a background in Machine Learning and be proficient in Pytho
 
 ## Course Convener
 **Tanmoy Chakraborty** <br>
-Associate Professor, Ramanujan Fellow  <br>
+Associate Professor <br>
 Office: 3B-7 (Block III, 3rd Floor), <br>
 Department of Electrical Engineering, <br>
 Indian Institute of Technology Delhi <br>
