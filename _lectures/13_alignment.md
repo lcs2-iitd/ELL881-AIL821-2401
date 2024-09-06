@@ -1,15 +1,22 @@
 ---
 type: lecture
 
-date: 2024-09-05T10:00:00+4:30
+date: 2024-09-05T12:00:00+4:30
 
-format_date: TBA
+format_date: September 5, 2024 (Thursday)
 
-title: "Alignment"
+title: "13.1. Alignment of Language Models: Reward Maximization"
 
-tldr: "Discussion on the various methods for aligning LLMs with human preferences &ndash; RLHF, DPO etc."
+tldr: "Looking into the reward model for alignment &ndash; modeling the alignment procedure as reinforcement learning, the architecture of reward model, training the reward model, gathering preference data (RLHF vs RLAIF), reward maximization objective."
 
-hide_from_announcments: true
+hide_from_announcments: false
 
-thumbnail: /static_files/presentations/lec13.jpg
+links: 
+    - url: /static_files/presentations/131.pdf
+      name: slides
+
+
+thumbnail: /static_files/presentations/131.jpg
 ---
+<!-- Other additional contents using markdown -->
+**Suggested Readings:**
