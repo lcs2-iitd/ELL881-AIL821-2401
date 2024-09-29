@@ -9,7 +9,7 @@ You can download the external materials and exam questions here. <b>🔔 [Subscr
 ## Exam Questions
 
 * [Quiz-1 Question Paper](/_assignments/Quiz_1_Question.pdf)
-* [Mid-Semester Examination Question Paper]()
+* [Mid-Semester Examination Question Paper](/_assignments/MidSem_Question.pdf)
   
 ## Books
 
