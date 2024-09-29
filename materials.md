@@ -4,8 +4,13 @@ title: Materials
 permalink: /materials/
 ---
 
-You can download the external materials here. <b>🔔 [Subscribe](https://forms.gle/A3ZpHd3sB4ErSMA79) to our newsletter for the latest updates on LLMs!</b>
+You can download the external materials and exam questions here. <b>🔔 [Subscribe](https://forms.gle/A3ZpHd3sB4ErSMA79) to our newsletter for the latest updates on LLMs!</b>
 
+## Exam Questions
+
+* [Quiz-1 Question Paper]()
+* [Mid-Semester Examination Question Paper]()
+  
 ## Books
 
 * [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/), Dan Jurafsky and James H. Martin
