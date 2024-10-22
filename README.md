@@ -35,7 +35,6 @@ Students should have a background in Machine Learning and be proficient in Pytho
 • Efficient Adaptation of LLMs <br>
 • Efficient Inference from LLMs <br>
 • Retrieval Augmentation <br>
-• Multilingual Language Models <br>
 • Tool Augmentation <br>
 • Reasoning <br>
 • Vision Language Models <br>
@@ -44,7 +43,6 @@ Students should have a background in Machine Learning and be proficient in Pytho
 • Bias, Toxicity and Hallucination <br>
 • Self-evolving LLMs <br>
 • Interpreting the Inner Workings of LLMs <br>
-• Beyond Transformers: State Space Models <br>
 • Conclusion <br>
 
 ## Course Convener
