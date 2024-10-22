@@ -1,15 +1,22 @@
 ---
 type: lecture
 
-date: 2024-12-05T11:00:00+4:30
+date: 2024-10-21T11:00:00+4:30
 
-format_date: TBA
+format_date: October 21, 2024 (Monday)
 
-title: "Reasoning"
+title: "18. Reasoning in LLMs"
 
-tldr: "Can LLMs reason? Discussion of techniques which improve the performance of LLMs on reasoning tasks."
+tldr: "Looking into different types of reasoning tasks and various techniques (like, Chain-of-Thought prompting, backward chaining, etc.) facilitating LLMs to solve these tasks. Overview of various reasoning benchmarks and discussion on whether LLMs can truly reason and plan, highlighting both current capabilities and limitations."
 
-hide_from_announcments: true
+hide_from_announcments: false
 
-thumbnail: /static_files/presentations/lec19.jpg
+links: 
+    - url: /static_files/presentations/181.pdf
+      name: slides
+
+
+thumbnail: /static_files/presentations/181.jpg
 ---
+<!-- Other additional contents using markdown -->
+**Suggested Readings:**
