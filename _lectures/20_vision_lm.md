@@ -5,7 +5,7 @@ date: 2024-12-06T11:00:00+4:30
 
 format_date: TBA
 
-title: "Vision Language Models"
+title: "17. Vision Language Models"
 
 tldr: "Understanding the architecture and pre-training strategies of multimodal models &ndash; the focus will be on models handling two modalities (images and text)."
 
