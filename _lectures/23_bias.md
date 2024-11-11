@@ -1,7 +1,7 @@
 ---
 type: lecture
 
-date: 2024-12-09T11:00:00+4:30
+date: 2024-12-15T11:00:00+4:30
 
 format_date: TBA
 
