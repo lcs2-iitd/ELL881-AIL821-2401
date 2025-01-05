@@ -1,4 +1,4 @@
-        ---
+---
 type: assignment
 date: 2024-10-22T4:00:00+5:30
 title: 'Assignment #KG-RAG'
