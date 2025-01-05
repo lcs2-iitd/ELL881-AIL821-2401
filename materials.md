@@ -10,8 +10,13 @@ You can download the external materials and exam questions here. <b>🔔 [Subscr
 
 * [Quiz-1 Question Paper](/_assignments/Quiz_1_Question.pdf)
 * [Mid-Semester Examination Question Paper](/_assignments/MidSem_Question.pdf)
+* [Quiz-2 Question Paper](/_assignments/Quiz_2_Question.pdf)
+* [End-Semester Examination Question Paper](/_assignments/EndSem_Question.pdf)
+
+## Textbook
+* [Introduction to Large Language Models](https://www.amazon.in/dp/936386474X/), Tanmoy Chakraborty
   
-## Books
+## Reference Books
 
 * [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/), Dan Jurafsky and James H. Martin
 * Foundations of Statistical Natural Language Processing, Chris Manning and Hinrich Schütze
