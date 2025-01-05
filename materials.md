@@ -28,10 +28,10 @@ You can download the external materials and exam questions here. <b>🔔 [Subscr
 ## Research Papers (As Recommended in Class)
 
 ### Journals
-* Computational Linguistics, Natural Language Engineering, TACL, JMLR, TMLR, etc.
+* Computational Linguistics, TACL, JMLR, TMLR, etc.
 
 ### Conferences
-* ACL, EMNLP, NAACL, EACL, ICML, NeurIPS, ICLR, AAAI, WWW, KDD, SIGIR, etc. 
+* ACL, EMNLP, NAACL, NeurIPS, ICLR, ICML, AAAI, WWW, KDD, SIGIR, etc. 
 
 ## Related Courses (Non-exhaustive)
 
