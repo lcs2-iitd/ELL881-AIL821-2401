@@ -13,6 +13,8 @@ You can download the external materials and exam questions here. <b>🔔 [Subscr
 * [Quiz-2 Question Paper](/_assignments/Quiz_2_Question.pdf)
 * [End-Semester Examination Question Paper](/_assignments/EndSem_Question.pdf)
 
+{% include image.html url="/_images/bookcover.jpg" width=175 align="right" %}
+
 ## Textbook
 * [Introduction to Large Language Models](https://www.amazon.in/dp/936386474X/), Tanmoy Chakraborty
   
