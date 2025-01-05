@@ -2,7 +2,7 @@
 type: assignment
 date: 2024-10-22T4:00:00+5:30
 title: 'Assignment: KG-RAG'
-attachment: /static_files/assignments/ELL881_AIL821_Assignment.pdf
+attachment: /_assignments/ELL881_AIL821_Assignment.pdf
 due_event: 
     type: due
     date: 2024-11-14T23:59:00+5:30
